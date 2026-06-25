@@ -33,6 +33,9 @@ git branch
 
 main 브렌치로 푸시함
 git push -u origin main
-git add .
-git commit -m 'Initial commit'
+=> 최초 푸시할 경우, 로그인 팝업 나타남 > 로그인하면 마스터 관리자 인증화면 나타남 >
+# 깃허브 브라우저에서 새로고침해서 업로드 확인
 
+# 팀원들이 작업에 사용할 작업 브렌치를 깃허브에서 만들어줌 (마스터)
+=> 리포지토리: Code 탭에서 'main' 클릭 > 브렌치이름 입력 > 바로 아래의 'create branch ....' 클릭
+=> 반복해서 'main' 으로 바꾸고 브렌치 만들기함
